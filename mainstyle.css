@@ -4,7 +4,7 @@ body {
 }
 h1 {
   color = linen;
-  align = center;
+  text-align = center;
 }
 p {
   color = red;
