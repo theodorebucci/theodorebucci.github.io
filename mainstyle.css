@@ -1,8 +1,9 @@
 body {
-  background-color: aquamarine;
+  background-color: MediumTurquoise;
 }
 h1 {
-  color: linen;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
 }
 p {
